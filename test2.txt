@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is F049-3B96
+
+ Directory of C:\Users\ASUS\OneDrive\Desktop\Myproject
+
+08-10-2021  21:12    <DIR>          .
+08-10-2021  21:12    <DIR>          ..
+08-10-2021  21:12                 0 test2.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  193,346,433,024 bytes free
+ this new line is added here in text2.txt
